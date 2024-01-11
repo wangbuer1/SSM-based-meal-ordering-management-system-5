@@ -1,10 +1,11 @@
-# 基于SSM的订餐管理系统
+# 基于SSM的订餐管理系统5
 
 ## 获取方式
 
 关注公众号： **程序员王不二**，回复关键词  ： “**订餐5**”   
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
 
 ## 1、项目介绍
 
@@ -27,6 +28,7 @@
 - IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
 - tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
 - 数据库版本：MySql 5.x
+- maven项目：否
 - 硬件环境：Windows 或者 Mac OS
 
 
@@ -34,35 +36,28 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248074.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206102248074.jpg)
 
 ### 4.2 用户模块
 
-![前端-菜品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248049.jpg)
+![前端-菜品](https://www.codeshop.fun/Typora-Images/202206102248049.jpg)
 
-![用户-加入购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248651.jpg)
+![用户-加入购物车](https://www.codeshop.fun/Typora-Images/202206102248651.jpg)
 
-![用户-订单记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248263.jpg)
+![用户-订单记录](https://www.codeshop.fun/Typora-Images/202206102248263.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-菜品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248750.jpg)
+![管理员-菜品管理](https://www.codeshop.fun/Typora-Images/202206102248750.jpg)
 
-![管理员-添加菜品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248508.jpg)
+![管理员-添加菜品](https://www.codeshop.fun/Typora-Images/202206102248508.jpg)
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248861.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202206102248861.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248484.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206102248484.jpg)
 
-![管理员-种类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248560.jpg)
+![管理员-种类管理](https://www.codeshop.fun/Typora-Images/202206102248560.jpg)
 
-## 5、视频演示
-
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ： “**订餐5**”   
 
 
 
